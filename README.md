@@ -2,6 +2,7 @@
 Links,Videos and Readings for getting started in Blockchain Development
 
 1.) ```Intro to Ethereum Stack``` 
+https://ethereum.org/en/developers/docs/ethereum-stack/
 ![Ethstack](https://user-images.githubusercontent.com/59753390/137608504-cec50ac0-8df8-4401-9d61-1487b73bb6db.JPG)
 
 2.) ```Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM Freecodecamp.org```

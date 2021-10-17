@@ -23,3 +23,18 @@ https://cryptozombies.io/en/course
 
 https://youtube.com/playlist?list=PLbbtODcOYIoE0D6fschNU4rqtGFRpk3ea
 
+6.) ```Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial (16Hrs)```
+
+https://youtu.be/M576WGiDBdQ
+
+7.) ```MASTER Solidity for Blockchain Step-By-Step (Full Course)```
+
+https://youtu.be/YJ-D1RMI0T0
+
+8.) ``` Solidity For Beginners```
+https://youtube.com/playlist?list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu
+
+9.) ```Excellent Free Tutorials to Learn Solidity Eric Karlsson```
+
+https://www.linuxlinks.com/excellent-free-tutorials-learn-solidity/
+

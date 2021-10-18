@@ -38,3 +38,6 @@ https://youtube.com/playlist?list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu
 
 https://www.linuxlinks.com/excellent-free-tutorials-learn-solidity/
 
+10.)``` Learn Solidity In 30 Days Medium Tom Terado```
+https://medium.com/coinmonks/how-to-learn-solidity-in-30-days-78b02e503d23
+

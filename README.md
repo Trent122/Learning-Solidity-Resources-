@@ -1,7 +1,6 @@
 # Learning-Solidity-Resources
 
-Links,Videos and Readings for getting started in Blockchain Development
-
+Links, Videos, and Readings for getting started in Blockchain Development
 https://ethereum.org/en/developers/docs/ethereum-stack/
 
 1.) ```Intro to Ethereum Stack``` 

@@ -1,10 +1,13 @@
 # Learning-Solidity-Resources
 
-Links, Videos, and Readings for getting started in Blockchain Development
-https://ethereum.org/en/developers/docs/ethereum-stack/
+```Resource List```
+https://www.dappuniversity.com/articles/the-complete-blockchain-developer-resource-list
 
 1.) ```Intro to Ethereum Stack``` 
 ![Ethstack](https://user-images.githubusercontent.com/59753390/137608504-cec50ac0-8df8-4401-9d61-1487b73bb6db.JPG)
+
+Links, Videos, and Readings for getting started in Blockchain Development
+https://ethereum.org/en/developers/docs/ethereum-stack/
 
 2.) ```Solidity Tutorial - A Full Course on Ethereum, Blockchain Development, Smart Contracts, and the EVM Freecodecamp.org```
 

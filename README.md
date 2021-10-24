@@ -43,3 +43,5 @@ https://www.linuxlinks.com/excellent-free-tutorials-learn-solidity/
 10.)``` Learn Solidity In 30 Days Medium Tom Terado```
 https://medium.com/coinmonks/how-to-learn-solidity-in-30-days-78b02e503d23
 
+11.) ```Intro To Ethereum Programming [FULL COURSE 2021]```
+https://youtu.be/XLahq4qyors

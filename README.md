@@ -45,3 +45,9 @@ https://medium.com/coinmonks/how-to-learn-solidity-in-30-days-78b02e503d23
 
 11.) ```Intro To Ethereum Programming [FULL COURSE 2021]```
 https://youtu.be/XLahq4qyors
+
+12.) ```Ethereum Statelessness Resource Page```
+https://notes.ethereum.org/@gballet/Sy-a6T5St
+
+13.) ```What’s New in Eth2? Update Once Per Month```
+https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_211022 

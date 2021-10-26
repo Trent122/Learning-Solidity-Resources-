@@ -51,3 +51,6 @@ https://notes.ethereum.org/@gballet/Sy-a6T5St
 
 13.) ```What’s New in Eth2? Update Once Per Month```
 https://hackmd.io/@benjaminion/eth2_news/https%3A%2F%2Fhackmd.io%2F%40benjaminion%2Fwnie2_211022 
+
+14.) ```4.) Anatomy of a Smart Contract```
+https://ethereum.org/en/developers/docs/smart-contracts/anatomy/ 

@@ -58,8 +58,8 @@ https://ethereum.org/en/developers/docs/smart-contracts/anatomy/
 15.) ```Solidity by example```
 https://solidity-by-example.org/
 
-```Solidity CheatSheet```
+16.) ```Solidity CheatSheet```
 https://docs.soliditylang.org/en/v0.8.9/cheatsheet.html
 
-```Solidity Flash Cards Key Terms```
+17.) ```Solidity Flash Cards Key Terms```
 https://www.cram.com/flashcards/solidity-by-example-flashcards-12486872

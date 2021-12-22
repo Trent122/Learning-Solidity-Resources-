@@ -63,3 +63,6 @@ https://docs.soliditylang.org/en/v0.8.9/cheatsheet.html
 
 17.) ```Solidity Flash Cards Key Terms```
 https://www.cram.com/flashcards/solidity-by-example-flashcards-12486872
+
+18.) ```Ethereum Smart Contract Best Practices```
+https://consensys.github.io/smart-contract-best-practices/software_engineering/

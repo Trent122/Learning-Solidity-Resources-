@@ -67,4 +67,4 @@ https://www.cram.com/flashcards/solidity-by-example-flashcards-12486872
 18.) ```Ethereum Smart Contract Best Practices```
 https://consensys.github.io/smart-contract-best-practices/software_engineering/
 
-sdasd
+asdafsdf

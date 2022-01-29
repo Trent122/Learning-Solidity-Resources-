@@ -1,4 +1,4 @@
-# Learning-Solidity-Resources
+# Learning-Solidity-Resources!
 
 ```Resource List```
 https://www.dappuniversity.com/articles/the-complete-blockchain-developer-resource-list
